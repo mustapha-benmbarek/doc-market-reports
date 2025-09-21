@@ -10,11 +10,11 @@ For solution architects, product managers, consultants, and technology decision-
 
 Gartner Magic Quadrant shows where technology vendors stand in the market, classifying them as Leaders, Visionaries, Challengers, or Niche Players. Critical Capabilities reports explain how well each vendor’s products work for specific needs. Explore the different reports each year to see how vendors evolve and compare across markets.
 
-| Market Company | Market Name           | Market Year | Directory                                       |
-| -------------- | --------------------- | ----------- | ----------------------------------------------- |
-| Gartner        | Magic Quadrant        | 2026        | [Access](gartner/magic-quadrant/2025/readme.md) |
-| Gartner        | Magic Quadrant        | 2025        | [Access](gartner/magic-quadrant/2025/)          |
-| Gartner        | Magic Quadrant        | 2024        | [Access](../gartner/magic-quadrant/2025/)       |
-| Gartner        | Critical Capabilities | 2026        | [Access](/gartner/critical-capabilities/2026/)  |
-| Gartner        | Critical Capabilities | 2026        | [Access](/gartner/critical-capabilities/2025/)  |
-| Gartner        | Critical Capabilities | 2026        | [Access](/gartner/critical-capabilities/2024/)  |
+| Market Company | Market Name           | Market Year | Directory                                     |
+| -------------- | --------------------- | ----------- | --------------------------------------------- |
+| Gartner        | Magic Quadrant        | 2026        | [Access](gartner/magic-quadrant/2025/)        |
+| Gartner        | Magic Quadrant        | 2025        | [Access](gartner/magic-quadrant/2025/)        |
+| Gartner        | Magic Quadrant        | 2024        | [Access](gartner/magic-quadrant/2024/)        |
+| Gartner        | Critical Capabilities | 2026        | [Access](gartner/critical-capabilities/2026/) |
+| Gartner        | Critical Capabilities | 2026        | [Access](gartner/critical-capabilities/2025/) |
+| Gartner        | Critical Capabilities | 2026        | [Access](gartner/critical-capabilities/2024/) |
