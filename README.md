@@ -12,8 +12,8 @@ Gartner Magic Quadrant shows where technology vendors stand in the market, class
 
 | Market Company | Market Name           | Market Year | Directory                                      |
 | -------------- | --------------------- | ----------- | ---------------------------------------------- |
-| Gartner        | Magic Quadrant        | 2026        | [Access](/gartner/magic-quadrant/2026/)        |
-| Gartner        | Magic Quadrant        | 2025        | [Access](/gartner/magic-quadrant/2025/)        |
+| Gartner        | Magic Quadrant        | 2026        | [Access](gartner/magic-quadrant/2026/)         |
+| Gartner        | Magic Quadrant        | 2025        | [Access](../gartner/magic-quadrant/2025/)      |
 | Gartner        | Magic Quadrant        | 2024        | [Access](/gartner/magic-quadrant/2024/)        |
 | Gartner        | Critical Capabilities | 2026        | [Access](/gartner/critical-capabilities/2026/) |
 | Gartner        | Critical Capabilities | 2026        | [Access](/gartner/critical-capabilities/2025/) |
