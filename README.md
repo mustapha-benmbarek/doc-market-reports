@@ -25,6 +25,8 @@ For **solution architects, product managers, consultants, and technology decisio
 
 ### Gartner | Magic Quadrant Reports
 
+Gartner Magic Quadrant reports evaluate vendors based on their ability to execute and completeness of vision, visually positioning them as Leaders, Challengers, Visionaries, or Niche Players, helping organizations quickly understand market dynamics and identify which vendors are strongest overall in a given technology or service area.
+
 | Market Year | Market Name                              | Report Available |
 | ----------- | ---------------------------------------- | ---------------- |
 | 2025        | Magic Quadrant for Cloud Infrastructure  | ✅               |
@@ -33,6 +35,8 @@ For **solution architects, product managers, consultants, and technology decisio
 | …           | …                                        | …                |
 
 ### Gartner | Critical Capabilities Reports
+
+Gartner Critical Capabilities reports complement the Magic Quadrant by providing a detailed evaluation of vendor products based on specific technical or business criteria, helping organizations compare features, identify which products are best suited for particular use cases, and make informed, use-case-driven decisions rather than relying solely on overall market position.
 
 | Market Year | Market Name                              | Report Available |
 | ----------- | ---------------------------------------- | ---------------- |
